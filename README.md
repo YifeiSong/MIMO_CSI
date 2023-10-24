@@ -1,1 +1,1 @@
-# MIMO_CSI
+#MIMO CSI data created for research purpose use
